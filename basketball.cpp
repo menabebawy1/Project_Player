@@ -35,7 +35,7 @@
     } // updates if the player changes team
     void Player::run(double miles){
         old_level = level_;
-        if((fitness_ += miles/50) < 100 && fitness_ < 100){
+        if(((fitness_ + miles/50) < 100) && ((level_ + floor(miles/50)) < 100)){
             fitness_ += miles/50;
             level_ += floor(miles/50);
         }
@@ -48,7 +48,7 @@
     }
     void Player::shoot(int shots){
         old_level = level_;
-        if(((level_ += floor(shots/1000)) < 100) && ((ppg_ += shots/1000) < 100)){
+        if(((level_ + floor(shots/1000)) < 100) && ((ppg_ + shots/1000) < 100)){
             level_ += floor(shots/1000);
             ppg_ += shots/1000;
 
