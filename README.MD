@@ -22,12 +22,11 @@ Wrapping up (combining) data and functions into a single unit is known as encaps
 A constructor is used to construct and initialize all the data members for objects.
 
 #### Destructors <br>
-Provide Destructor to free-up memory
-when SomeClass performs dynamic memory
-allocation
+Provide Destructor to free-up memory when SomeClass performs dynamic memory allocation
 
 #### Interface <br>
 This is what the user needs to interact with the product. It includes data and the set of perations that can be done on that data. This is separate from implementation.
+<br>
 
 ### Problem Prevention Methods: <br>
 
@@ -39,3 +38,27 @@ Minimize function dependence on eachother.
 
 #### Readability <br>
 Comment your code
+<br>
+
+### Inheritance: <br>
+
+### Friend Functions <br>
+Functions that are not members of the class but CAN access private members of the class. It is appropriate to use friend functions for Operator overloading.
+
+### Overloading <br>
+Define new function in the derived class with same name but different parameter list 
+
+### Overriding <br>
+Rewrite function with same signature in derived class
+
+### Proteccted: Access Specifier <br>
+Derived classes inherit these members and can directly access them..
+
+### Note: <br>
+- Base-class constructor always called before derived-class
+constructor
+- If base class has only parameterized constructor, derived
+class must supply constructor that calls base-class
+constructor explicitly
+
+![image](/var/folders/p5/z2pg2n7x6hj2x1m8cj98yyqr0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 5)/Screen Shot 2020-10-03 at 4.10.02 PM.png)
