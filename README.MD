@@ -1,8 +1,11 @@
 ## Object Oriented Programming Pratice
-
+- Simplify complex program to manageable level
+- Break down into smaller problems
+- Isolate functionalities
+- Minimize and control interactions 
 
 #### Abstraction <br>
-Data abstraction refers to, providing only essential information to the outside world and hiding their background details, i.e., to represent the needed information in program without presenting the details.
+Data abstraction refers to, providing only essential information to the outside world and hiding their background details(implementation and design), i.e., to represent the needed information in program without presenting the details.
 
 #### Inheritance <br>
 One of the most useful aspects of object-oriented programming is code reusability. As the name suggests Inheritance is the process of forming a new class from an existing class that is from the existing class called as base class, new class is formed called as derived class.
@@ -17,3 +20,22 @@ Wrapping up (combining) data and functions into a single unit is known as encaps
 
 #### Constructors <br>
 A constructor is used to construct and initialize all the data members for objects.
+
+#### Destructors <br>
+Provide Destructor to free-up memory
+when SomeClass performs dynamic memory
+allocation
+
+#### Interface <br>
+This is what the user needs to interact with the product. It includes data and the set of perations that can be done on that data. This is separate from implementation.
+
+### Problem Prevention Methods: <br>
+
+#### Cohesion <br>
+Create functions to do only one well-defined task.
+
+#### Coupling <br>
+Minimize function dependence on eachother.
+
+#### Readability <br>
+Comment your code

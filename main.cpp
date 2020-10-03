@@ -34,6 +34,4 @@ int main(){
     std::cout << "Your player ppg is: " << myplayer2.getPPG() << std::endl;
     myplayer2.summary();
 
-
-
 }
