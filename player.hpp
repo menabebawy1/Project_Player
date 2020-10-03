@@ -1,5 +1,5 @@
-#ifndef BASKETBALL_
-#define BASKETBALL_
+#ifndef PLAYER_
+#define PLAYER_
 
 class Player
 {

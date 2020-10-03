@@ -1,5 +1,5 @@
 #include <iostream>
-#include "basketball.hpp"
+#include "player.hpp"
 
 int main(){
     std::cout << "Player 1: " << std::endl;

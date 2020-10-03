@@ -1,5 +1,5 @@
 #include <iostream>
-#include "basketball.hpp"
+#include "player.hpp"
 #include <math.h>
 
     Player::Player(std::string name, std::string team, int number){
