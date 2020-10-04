@@ -2,7 +2,6 @@ This project is for creating a player class of which different types of players 
 
 The rest of this file is just self-practice markdown.
 
-The follwoing
 ## Object Oriented Programming Pratice
 - Simplify complex program to manageable level
 - Break down into smaller problems
