@@ -1,7 +1,8 @@
 #include <iostream>
 #include "basketball_player.hpp" //you only beed to include the hpp of the derived class in the main file
 
-int main(){
+int main()
+{
     std::cout << "Player 1: " << std::endl;
     std::cout << std::endl;
 
@@ -33,5 +34,4 @@ int main(){
     std::cout << "Your player fitness level is: " << myplayer2.getFITNESS() << std::endl;
     std::cout << "Your player ppg is: " << myplayer2.getPPG() << std::endl;
     myplayer2.summary();
-
 }
