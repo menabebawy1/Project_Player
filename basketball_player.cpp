@@ -29,13 +29,14 @@ double BasketballPlayer::getMINUTES() const
     return minutes_per_game;
 }
 
-void BasketballPlayer::updateWINS(){
-    win_shares = ppg_/100;
-
+void BasketballPlayer::updateWINS()
+{
+    win_shares = ppg_ / 100;
 }
-void BasketballPlayer::updateMINUTES(){
-    minutes_per_game = (fitness_*.2)+(level_*.2);
 
+void BasketballPlayer::updateMINUTES()
+{
+    minutes_per_game = (fitness_ * .2) + (level_ * .2);
 }
 
 void BasketballPlayer::summary()
