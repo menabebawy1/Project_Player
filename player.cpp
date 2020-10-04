@@ -46,7 +46,7 @@
         new_level = level_;
         congrats();
     }
-    void Player::shoot(int shots){
+    void Player::score(int shots){
         old_level = level_;
         if(((level_ + floor(shots/1000)) < 100) && ((ppg_ + shots/1000) < 100)){
             level_ += floor(shots/1000);
