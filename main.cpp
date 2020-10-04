@@ -52,19 +52,27 @@ int main()
     std::cout << "Team: " << player1.getTEAM() << std::endl;
     std::cout << "Wins per 48 minutes: " << player1.getWINS() << std::endl;
     player1.summary();
+    std::cout << std::endl;
+    std::cout << std::endl;
 
-    /*
-    std::string getNAME() const;                            //returns player name
-    std::string getTEAM() const;                            //returns player team
-    double getPPG() const;                                  //returns player points per game
-    int getNUM() const;                                     //returns player number
-    int getLEVEL() const;                                   //returns player level
-    double getFITNESS() const;                              //returs player distance
-    void updateTEAM(std::string new_team);                  // updates if the player changes team
-    void run(double miles);                                 // increases player fitness and level
-    void score(int shots);                                  // increases player ppg and level
-    void summary(); 
-    */
+    player1.run(50);
+    player1.score(1000);
+    player1.run(50);
+    player1.score(1000);
+    player1.run(50);
+    player1.score(1000);
+    player1.run(50);
+    player1.score(1000);
+    player1.run(50);
+    player1.score(1000);
+    player1.run(50);
+    player1.score(1000);
+
+    player1.updateMINUTES();
+    player1.updateWINS();
+    player1.summary();
+
+
 
 
 

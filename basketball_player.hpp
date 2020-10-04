@@ -12,6 +12,8 @@ public:
     double getWINS() const;
     double getMINUTES() const;
     void summary();
+    void updateWINS();
+    void updateMINUTES();
 
 private:
     std::string position_;
