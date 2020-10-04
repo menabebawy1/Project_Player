@@ -12,7 +12,7 @@ public:
     int getLEVEL() const; //returns player level
     double getFITNESS() const; //returs player distance
     void updateTEAM(std::string new_team); // updates if the player changes team
-    void run(double miles); // increeases player fitness and level
+    void run(double miles); // increases player fitness and level
     void score(int shots); // increases player ppg and level
     void summary(); //gets players info
     

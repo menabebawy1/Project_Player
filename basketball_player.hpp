@@ -6,7 +6,12 @@
 
 class BasketballPlayer{
     public:
+    BasketballPlayer(std::string name, std::string team, std::string position, int number);
+    std::string getPOSITION() const;
+
+
     private:
+    std::string position_;
 };
 
 #endif
