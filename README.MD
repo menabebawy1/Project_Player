@@ -61,4 +61,3 @@ constructor
 class must supply constructor that calls base-class
 constructor explicitly
 
-![image](/var/folders/p5/z2pg2n7x6hj2x1m8cj98yyqr0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui 5)/Screen Shot 2020-10-03 at 4.10.02 PM.png)

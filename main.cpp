@@ -1,5 +1,5 @@
 #include <iostream>
-#include "player.hpp"
+#include "basketball_player.hpp" //you only beed to include the hpp of the derived class in the main file
 
 int main(){
     std::cout << "Player 1: " << std::endl;
