@@ -1,3 +1,8 @@
+This project is for creating a player class of which different types of players can be derived from such as a Basketball player. The base player can score, run, have a number and team etc.. while the derived player, in this case, a Basketball player, can have addition things such as win shares and minutes played.
+
+The rest of this file is just self-practice markdown.
+
+The follwoing
 ## Object Oriented Programming Pratice
 - Simplify complex program to manageable level
 - Break down into smaller problems
