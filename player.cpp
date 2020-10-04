@@ -89,7 +89,7 @@ void Player::congrats()
 }
 void Player::summary()
 {
-    std::cout << name_ << " is one of the best players in NBA history. Throughout his career, he has scored " << ppg_ << " points per game. He retired with the " << team_ << " as number " << number_ << "." << std::endl;
+    std::cout << name_ << " is one of the best players in league history. Throughout his career, he has scored " << ppg_ << " points per game. He retired with the " << team_ << " as number " << number_ << "." << std::endl;
     std::cout << "The following are his stats:" << std::endl;
     std::cout << "Points Per Game: " << ppg_ << std::endl;
     std::cout << "Fitness: " << fitness_ << std::endl;
