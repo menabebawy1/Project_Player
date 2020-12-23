@@ -8,10 +8,16 @@ Player 1:
 Your player level is: 0
 Your player name is: Peter Parker
 Your player number is: 0
-CONGRATULATIONS, you have reached level 20!!!
-CONGRATULATIONS, you have reached level 22!!!
-Your player level is: 22
-Keep going! you can level up!
+
+CONGRATULATIONS, you have reached level 20!!! //This occurs after calling the run or score function which cause the player to train and level up
+CONGRATULATIONS, you have reached level 22!!! //This occurs after calling the run or score function which cause the player to train and level up
+
+Your player level is: 22 //We can see now that the player leveled up by 22 levels 
+
+Keep going! you can level up! //This occurs after calling the run or score function BUT the training is not enough for the player to level up
+
+
+//The following is the summary function which tells the user everything about the player
 Peter Parker is one of the best players in league history. Throughout his career, he has scored 2 points per game. He retired with the Spurs as number 0.
 The following are his stats:
 Points Per Game: 2
