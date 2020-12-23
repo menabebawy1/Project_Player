@@ -20,7 +20,8 @@ Keep going! you can level up! //This occurs after calling the run or score funct
 
 
 //The following is the summary function which tells the user everything about the player
-Peter Parker is one of the best players in league history. Throughout his career, he has scored 2 points per game. He retired with the Spurs as number 0.
+Peter Parker is one of the best players in league history. Throughout his career, he has scored 2 points per game. 
+He retired with the Spurs as number 0.
 The following are his stats:
 Points Per Game: 2
 Fitness: 20
@@ -50,7 +51,8 @@ Your player fitness level is: 4 //improved fitness
 Your player ppg is: 30 //increased points per game
 
 //This is the summary of that particular player
-BOB is one of the best players in league history. Throughout his career, he has scored 30 points per game. He retired with the Warriors as number 100.
+BOB is one of the best players in league history. Throughout his career, he has scored 30 points per game. 
+He retired with the Warriors as number 100.
 The following are his stats:
 Points Per Game: 30
 Fitness: 4
@@ -73,7 +75,9 @@ Team: Huston Rockets
 Wins per 48 minutes: 0
 
 //Summary before practicing
-Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 0 points per game. He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 0 minutes per game. He contributed to his team wins, having a 0 of win shares per 48 minutes.
+Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 0 points per game. 
+He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 0 
+minutes per game. He contributed to his team wins, having a 0 of win shares per 48 minutes.
 
 The following are his stats:
 Points Per Game: 0
@@ -95,7 +99,9 @@ CONGRATULATIONS, you have reached level 12!!!
 
 
 //New summary after his change:
-Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 6 points per game. He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 3.6 minutes per game.He contributed to his team wins, having a 0.06 of win shares per 48 minutes.
+Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 6 points per game. 
+He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 3.6 
+minutes per game.He contributed to his team wins, having a 0.06 of win shares per 48 minutes.
 
 The following are his stats:
 Points Per Game: 6
