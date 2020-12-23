@@ -29,8 +29,8 @@ Level: 22
 
 ```
 
-
-Here is another example:
+<br><br>
+Here is another example: 
 
 ```
 Player 2: 
@@ -58,7 +58,7 @@ Points Per Game: 30
 Fitness: 4
 Level: 34
 ```
-
+<br><br>
 Now, let's take a look at the output for the Basketball Player:
 
 ```
