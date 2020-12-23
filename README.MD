@@ -2,7 +2,7 @@ I was curious and wanted to create a player class of which different types of pl
 
 Each player can do multiple things in order to improve their scoring, fitness, and overall stats. Those actions include running and practicing scoring. The following is an example of the output for the player base class:
 
-'''
+```
 Player 1: 
 
 Your player level is: 0
@@ -18,7 +18,8 @@ Points Per Game: 2
 Fitness: 20
 Level: 22
 
-'''
+```
+
 
 
 
