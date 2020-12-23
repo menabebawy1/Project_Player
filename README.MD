@@ -55,3 +55,48 @@ Fitness: 4
 Level: 34
 ```
 
+Now, let's take a look at the output for the Basketball Player:
+
+```
+Basketball Player: 
+
+//Player initial information below:
+Name: Marques Brownlee
+Level: 0
+Minutes per game: 0
+Number: 2
+Position: Small Forward
+Points per game: 0
+Team: Huston Rockets
+Wins per 48 minutes: 0
+
+//Summary before practicing
+Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 0 points per game. He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 0 minutes per game. He contributed to his team wins, having a 0 of win shares per 48 minutes.
+
+The following are his stats:
+Points Per Game: 0
+Fitness: 0
+Level: 0
+
+CONGRATULATIONS, you have reached level 1!!! //The player keeps scoring, shooting and improving.
+CONGRATULATIONS, you have reached level 2!!!
+CONGRATULATIONS, you have reached level 3!!!
+CONGRATULATIONS, you have reached level 4!!!
+CONGRATULATIONS, you have reached level 5!!!
+CONGRATULATIONS, you have reached level 6!!!
+CONGRATULATIONS, you have reached level 7!!!
+CONGRATULATIONS, you have reached level 8!!!
+CONGRATULATIONS, you have reached level 9!!!
+CONGRATULATIONS, you have reached level 10!!!
+CONGRATULATIONS, you have reached level 11!!!
+CONGRATULATIONS, you have reached level 12!!!
+
+
+//New summary after his change:
+Marques Brownlee is one of the best players in NBA history. Throughout his career, he has scored 6 points per game. He retired with the Huston Rockets as number 2. During his time there, he played as a Small Forward, averaging 3.6 minutes per game.He contributed to his team wins, having a 0.06 of win shares per 48 minutes.
+
+The following are his stats:
+Points Per Game: 6
+Fitness: 6
+Level: 12
+```
