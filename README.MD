@@ -1,4 +1,46 @@
-This project is for creating a player class of which different types of players can be derived from such as a Basketball player. The base player can score, run, have a number and team etc.. while the derived player, in this case, a Basketball player, can have addition things such as win shares and minutes played.
+I was curious and wanted to create a player class of which different types of players can be derived from such as a Basketball player. The base player can score, run, have a number and team etc.. while the derived player, in this case, a Basketball player, can have addition things such as win shares and minutes played.
+
+Each player can do multiple things in order to improve their scoring, fitness, and overall stats. Those actions include running and practicing scoring. The following is an example of the output for the player base class:
+
+'''
+Player 1: 
+
+Your player level is: 0
+Your player name is: Peter Parker
+Your player number is: 0
+CONGRATULATIONS, you have reached level 20!!!
+CONGRATULATIONS, you have reached level 22!!!
+Your player level is: 22
+Keep going! you can level up!
+Peter Parker is one of the best players in league history. Throughout his career, he has scored 2 points per game. He retired with the Spurs as number 0.
+The following are his stats:
+Points Per Game: 2
+Fitness: 20
+Level: 22
+
+'''
+
+
+
+Player 2: 
+
+Your player level is: 0
+Your player fitness level is: 0
+Your player ppg is: 0
+CONGRATULATIONS, you have reached level 1!!!
+CONGRATULATIONS, you have reached level 2!!!
+CONGRATULATIONS, you have reached level 17!!!
+CONGRATULATIONS, you have reached level 18!!!
+CONGRATULATIONS, you have reached level 33!!!
+CONGRATULATIONS, you have reached level 34!!!
+Your player level is: 34
+Your player fitness level is: 4
+Your player ppg is: 30
+BOB is one of the best players in league history. Throughout his career, he has scored 30 points per game. He retired with the Warriors as number 100.
+The following are his stats:
+Points Per Game: 30
+Fitness: 4
+Level: 34
 
 The rest of this file is just self-practice markdown.
 
