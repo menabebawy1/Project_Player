@@ -108,3 +108,11 @@ Points Per Game: 6
 Fitness: 6
 Level: 12
 ```
+
+
+Memory Management
+The OS must provide memory management services:
+keeping track of which parts of memory are currently being used and by which processes;
+deciding which processes and data should be in memory,
+providing mechanisms to allocate and deallocate memory for processes
+while optimizing CPU utilization and response time to processes and their users.
